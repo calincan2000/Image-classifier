@@ -1,5 +1,7 @@
 # Project image classifier from scratch that will identify different species of flowers
+![image classifier output](https://github.com/calincan2000/Image-classifier/blob/master/output_5_0.png)
 ![image classifier output](https://github.com/calincan2000/Image-classifier/blob/master/inference_example.png)
+
 ## Image-Classifier
 In this project, you'll train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice, you'd train this classifier, then export it for use in your application. We'll be using this dataset of 102 flower categories.
 
