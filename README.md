@@ -1,4 +1,5 @@
 # Project image classifier from scratch that will identify different species of flowers
+![image classifier output](https://github.com/calincan2000/Image-classifier/blob/master/inference_example.png)
 
 Going forward, AI algorithms will be incorporated into more and more everyday applications. 
 For example, you might want to include an image classifier in a smart phone app. 
